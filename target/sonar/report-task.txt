@@ -1,0 +1,6 @@
+projectKey=com.playerManagement:playerManagemenr
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.playerManagement:playerManagemenr
+ceTaskId=AY-pxStN_ArJ-hdL73F_
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY-pxStN_ArJ-hdL73F_
